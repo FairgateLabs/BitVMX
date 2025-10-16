@@ -67,8 +67,7 @@ This repository lists all open-source components that make up the BitVMX ecosyst
 | [**BitVMX – Add Numbers Game**](https://github.com/FairgateLabs/bitvmx-hackathon-games) | A demonstration game where two players compete to solve an addition challenge using BitVMX verification logic. |
 
 ## 🚫 Deprecated 
-This is a no longer maintained or improved PoC. If what you're looking for is the BitVMX framework, please go to [**BitVMX Client**](https://github.com/FairgateLabs/rust-bitvmx-client)
-https://github.com/FairgateLabs/bitvmx_protocol
+The [**bitvmx_protocol PoC**](https://github.com/FairgateLabs/bitvmx_protocol) has been deprecated and is no longer maintained or improved. If what you're looking for is the BitVMX platform, please go to [**BitVMX Client**](https://github.com/FairgateLabs/rust-bitvmx-client)
 
 ---
 
